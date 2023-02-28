@@ -2,7 +2,7 @@
 This is a sample microservices project developed with Spring Boot and gRPC, using Java version 16.
 
 <img src="https://img.shields.io/badge/Language-Java-orange.svg">
-Our current build status: ![Build Status GitHub Actions](https://github.com/lofidewanto/nils-spring-microservices-grpc/actions/workflows/maven.yml/badge.svg)
+![Build Status GitHub Actions](https://github.com/lofidewanto/nils-spring-microservices-grpc/actions/workflows/maven.yml/badge.svg)
 
 ## Submodules:
 - City Score
